@@ -1,0 +1,11 @@
+What is Bootstrap?
+    Front-end Framework
+    used for building responsive, mobile first websites and web application
+    HTML/CSS/Javascript
+
+    why use Bootstrap? 
+    Increases development speed
+    Assure responsiveness
+    prevents repetition between projects
+    add consistency
+    cross browser compatibility
